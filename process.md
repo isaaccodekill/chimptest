@@ -1,0 +1,5 @@
+- connect to the db
+- write controller
+- write services
+- write repositories.
+- change db password
